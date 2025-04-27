@@ -1,0 +1,3 @@
+# api_key="AIzaSyD4J91x0E9_21W6RSABVKgGxVErNdJMHY0"
+groq_api_key="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"
+api_key = "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"

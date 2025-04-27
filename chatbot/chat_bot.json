@@ -1,0 +1,74 @@
+{
+    "greetings": {
+        "hi": "Hello! How can I assist you today?",
+        "hello": "Hi there! What can I do for you?",
+        "hey": "Hey! How may I help you?"
+    },
+    "farewell": {
+        "bye": "Goodbye! Have a great day!",
+        "goodbye": "Take care! See you soon!",
+        "see you": "See you later!"
+    },
+    "general": {
+        "how are you": "I'm just a bot, but I'm doing great! How about you?",
+        "what is your name": "I'm a medical chatbot here to help with health-related inquiries!",
+        "who created you": "I was developed by a team of experts in healthcare and technology."
+    },
+    "medical": {
+        "symptoms": {
+            "fever": "Fever can be a sign of infection. Please rest, stay hydrated, and monitor your temperature. If it persists, consult a doctor.",
+            "headache": "A headache can be caused by stress, dehydration, or other factors. Try resting and drinking water. If severe, seek medical advice.",
+            "cough": "A cough may be due to a cold, allergies, or infections. If persistent, consult a healthcare provider.",
+            "cold": "A common cold is caused by a virus. Stay warm, drink fluids, and rest. If symptoms last more than 10 days, see a doctor.",
+            "sore throat": "Sore throats can be caused by infections, allergies, or dry air. Try warm tea, honey, or throat lozenges.",
+            "stomach pain": "Stomach pain can be due to indigestion, gas, or infections. Drink water, rest, and avoid spicy foods.",
+            "vomiting": "Vomiting may be caused by food poisoning or infections. Stay hydrated and avoid solid food until you feel better.",
+            "diarrhea": "Diarrhea can be caused by infections or food intolerance. Drink plenty of fluids to prevent dehydration.",
+            "back pain": "Back pain may be caused by poor posture, strain, or injury. Try stretching, resting, and applying heat or ice.",
+            "dizziness": "Dizziness can result from dehydration, low blood pressure, or vertigo. Sit down and drink water. If severe, seek medical help."
+        },
+        "first_aid": {
+            "burn": "For minor burns, cool the area under running water for 10 minutes and apply aloe vera or a sterile bandage.",
+            "cut": "Clean the wound with water, apply antiseptic, and cover with a sterile bandage.",
+            "choking": "If someone is choking, encourage them to cough. If they can't breathe, perform the Heimlich maneuver.",
+            "nosebleed": "Pinch the nostrils together and lean forward slightly. Apply ice to the nose if bleeding continues.",
+            "fracture": "Keep the injured area still, support with a splint, and seek medical help immediately.",
+            "sprain": "Rest the injured area, apply ice, compress with a bandage, and keep it elevated.",
+            "poisoning": "If someone has ingested poison, call emergency services and do not induce vomiting unless advised.",
+            "heat stroke": "Move the person to a cool place, apply cold compresses, and provide fluids. Seek medical help if symptoms worsen."
+        },
+        "medicine": {
+            "paracetamol": "Paracetamol is used to reduce fever and relieve pain. Follow dosage instructions and do not exceed the recommended limit.",
+            "ibuprofen": "Ibuprofen is an anti-inflammatory drug used for pain relief. Take it with food to avoid stomach issues.",
+            "antacid": "Antacids help relieve heartburn and acid reflux. Do not overuse them to avoid side effects.",
+            "antibiotics": "Antibiotics are used to treat bacterial infections. Take them as prescribed and do not stop early.",
+            "antihistamine": "Antihistamines help with allergies, itching, and cold symptoms. May cause drowsiness.",
+            "cough syrup": "Cough syrups can help relieve dry or wet coughs. Follow the recommended dosage.",
+            "ORS": "Oral Rehydration Solution (ORS) helps prevent dehydration in diarrhea. Mix in water and drink as needed.",
+            "aspirin": "Aspirin is a pain reliever and blood thinner. Do not use it if you have a bleeding disorder."
+        },
+        "emergency": {
+            "heart attack": "Call emergency services immediately. Help the person sit down and loosen any tight clothing. If they are conscious, give them aspirin if available.",
+            "stroke": "Recognize signs of stroke (FAST: Face drooping, Arm weakness, Speech difficulty, Time to call emergency). Act quickly!",
+            "seizure": "Do not restrain the person. Keep the area safe and time the seizure. If it lasts more than 5 minutes, call emergency services.",
+            "unconsciousness": "Check for breathing and pulse. If absent, perform CPR and call emergency services.",
+            "allergic reaction": "For mild allergies, take an antihistamine. For severe reactions (anaphylaxis), use an epinephrine injection (EpiPen) and seek emergency help.",
+            "asthma attack": "Help the person use their inhaler. If symptoms persist, seek emergency medical attention.",
+            "electric shock": "Turn off the power source if safe. Check for breathing and pulse, and call emergency services."
+        },
+        "mental_health": {
+            "stress": "Practice deep breathing, meditation, and exercise. Talk to someone if you feel overwhelmed.",
+            "anxiety": "Try slow breathing techniques and relaxation exercises. Seek professional help if anxiety is persistent.",
+            "depression": "Talk to a trusted person or mental health professional. Stay active and engage in positive activities.",
+            "panic attack": "Breathe slowly and deeply, focus on a single object, and remind yourself that it will pass.",
+            "insomnia": "Try a bedtime routine, reduce screen time before sleep, and avoid caffeine in the evening."
+        },
+        "nutrition": {
+            "healthy diet": "Eat a balanced diet with fruits, vegetables, lean proteins, and whole grains.",
+            "hydration": "Drink at least 8 glasses of water a day to stay hydrated.",
+            "weight loss": "Maintain a calorie deficit, exercise regularly, and eat nutrient-rich foods.",
+            "weight gain": "Increase protein and calorie intake with healthy foods like nuts, avocados, and lean meats.",
+            "vitamin deficiency": "Eat a variety of foods to get enough vitamins. Consider supplements if needed."
+        }
+    }
+}
