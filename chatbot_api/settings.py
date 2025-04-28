@@ -34,7 +34,7 @@ SECRET_KEY = 'django-insecure-85-v=e1h4ji!)dk!1&skr4m2q_eo5+o7&4=u#q=9#8y1jmp4od
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['chatbot_api.onrender.com','127.0.0.1']
+ALLOWED_HOSTS = ['my-projects-ye51.onrender.com','127.0.0.1']
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
